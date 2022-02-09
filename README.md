@@ -12,6 +12,8 @@ This template will help you to test the content of an image(basically, text in t
 2. Move into the directory and exeute this command with appropriate inputs for Web Driver and it's location.
 
 `export DRIVER=<Your Driver name goes here, execute this command without '<>'>`
+
+
 `export DRIVER_PATH=<Your Driver path goes here, execute this command without '<>'>`
 
 3. To run the tests:
