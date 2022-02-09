@@ -20,7 +20,7 @@ This template will help you to test the content of an image(basically, text in t
 
 `mvn clean -Dtest=ImageTesting test`
 
-Note:- For Linux users, it is recommended to have tesseracr OCR installed on your local machine. Please execute the command mentioned below to install it.
+Note:- For Linux users, it is recommended to have tesseract OCR installed on your local machine. Please execute the command mentioned below to install it.
 
 `sudo apt-get install tesseract-ocr`
 
